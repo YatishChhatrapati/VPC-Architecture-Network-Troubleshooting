@@ -1,4 +1,5 @@
 **VPC Architecture & Network Troubleshooting**
+
 **Scenario 1 — Custom VPC Setup**
 
 Task:
@@ -12,6 +13,7 @@ Private Subnet
 Internet Gateway
 NAT Gateway
 Route Tables
+
 **Scenario 2 — Private Subnet Internet Access Issue**
 
 Problem:
@@ -29,6 +31,7 @@ Added route:
 
 Result:
 Outbound internet access restored.
+
 
 **Scenario 3 — NACL Misconfiguration**
 
